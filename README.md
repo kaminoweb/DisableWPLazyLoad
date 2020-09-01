@@ -1,0 +1,2 @@
+# DisableWpLazyload
+Disable WordPress Lazyload
