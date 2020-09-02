@@ -1,10 +1,11 @@
-=== Plugin Name ===
+=== Disable LazyLoad ===
 Contributors: kaminoweb
 Donate link: https://kaminoweb.com/
-Tags:
-Requires at least: 5.5
-Tested up to: 5.5
-Stable tag:
+Tags: disable,lazyload,lazy load
+Requires at least: 5.5.0
+Tested up to: 5.5.1
+Stable tag: trunk
+Requires PHP: 5.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -17,9 +18,29 @@ This plugin disables the "lazy load" feature added in WordPress 5.5.
 To install this plugin and get it working, follow the steps below:
 
 1. Upload `kaminoweb-disable-lazyload` directory into the `/wp-content/plugins/` directory
-1. Activate the plugin through the 'Plugins' menu in WordPress
+2. Activate the plugin through the 'Plugins' menu in WordPress
+
+== Screenshots ==
+
+1. At this time this is a drop-in plugin. There is no screen shot.
+
+== Frequently Asked Questions ==
+
+= How to remove this plugin? =
+
+To remove this plugin, you can:
+
+1. De-activate the plugin through the 'Plugins' menu in WordPress
+2. Then delete the plugin through the 'Plugins' menu in WordPress
+
+You can also:
+1. Manually delete the `kaminoweb-disable-lazyload` directory into the `/wp-content/plugins/` directory
+
+== Upgrade Notice ==
+
+N/A
 
 == Changelog ==
-
 = 0.1 =
 * (1 September 2020). Initial Release.
+
