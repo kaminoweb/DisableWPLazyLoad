@@ -12,7 +12,7 @@
 
 defined( 'ABSPATH' ) or die( 'No script kiddies please!' );
 
-function kaminoweb_disable_lazyload() {
+function kaminoweb_disable_lazyload($default,$tag_name,$context) {
          return false;
 }
 

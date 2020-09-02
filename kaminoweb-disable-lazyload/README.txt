@@ -22,7 +22,7 @@ To install this plugin and get it working, follow the steps below:
 
 == Screenshots ==
 
-1. At this time this is a drop-in plugin. There is no screen shot.
+1. There is no screen shot at this time.
 
 == Frequently Asked Questions ==
 
